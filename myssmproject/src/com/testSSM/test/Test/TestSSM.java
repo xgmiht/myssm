@@ -9,6 +9,7 @@ public class TestSSM {
 
 	public static void main(String[] args){
 		TestServiceImpl  testimpl=new TestServiceImpl();
+		system
 		
 	}
 }
