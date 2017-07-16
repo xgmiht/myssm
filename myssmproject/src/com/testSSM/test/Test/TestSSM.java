@@ -20,7 +20,12 @@ System.out.println("hhhttikk");
 
 System.out.println("kll");
 
+
 System.out.println("dfds");
 System.out.println("zhuzhixiug");
+
+System.out.println("dfds");
+System.out.println("·ÖÖ§ÐÞ¸Ä");
+
 	}
 }
