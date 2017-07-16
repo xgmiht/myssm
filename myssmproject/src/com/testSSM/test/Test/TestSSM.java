@@ -10,7 +10,7 @@ public class TestSSM {
 	public static void main(String[] args){
 		TestServiceImpl  testimpl=new TestServiceImpl();
 
-		
+		System.out.println();
 		System.out.println("this is hh");
 
 		System.out.println();
