@@ -37,10 +37,8 @@ System.out.println("·ÖÖ§ÐÞ¸Ä");
 System.out.println("zhuzhixiug2222222");
 
 
-System.out.println("fenzhiercixiug111");
+System.out.println("fenzhiercittttttpp");
 
-
-System.out.println("fenzhiercixiugpppppppp");
 
 
 	}
